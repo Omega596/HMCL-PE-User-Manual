@@ -1,14 +1,15 @@
 ---
-description: Third party data, for reference only!
+description: Данные третьих лиц, только для справки!
 ---
 
-# Incompatible Mods
+# Несовместимые моды
 
 {% hint style="danger" %}
-Third party data, for reference only!
+Данные третьих лиц, только для справки!
 {% endhint %}
 
-| MOD Name                | Version         | Specific content                                   |
-| ----------------------- | --------------- | -------------------------------------------------- |
-| ExtraAnvils             | 1.12.2Forge2860 | Game Crash                                         |
-| JourneyMap-1.12.2-5.7.1 | 1.12.2Forge2860 | The game starts half of the screen is the map grid |
+| Название мода                | Версия         | Конкретное содержание                                   | Совместимость                                                          |             
+| ----------------------- | --------------- | -------------------------------------------------- | ------------------------                                      |        
+| ExtraAnvils             | 1.12.2Forge2860 | Сбой игры                                          |                                                               |
+| JourneyMap-1.12.2-5.7.1 | 1.12.2Forge2860 | При игре половина экрана это сетка карты           |                                                               |
+| Sodium                  | 1.19.2Fabric    | Сбой игры                                         | Работает на PojavLauncher (Протестировано только на Samsung galaxy A30s)   |
