@@ -1,3 +1,3 @@
-# Introduction
+# Вступление
 
-This section is used to list the MODS that can be optimized for the client, as well as the MODS that HMCL-PE is not compatible with (**third-party data only, not an official statement**)
+Этот раздел используется для перечисления модов, которые могут быть оптимизированы для клиента, а также модов, с которыми HMCL-PE не совместим (** только данные третьих лиц, не официальное заявление **)
