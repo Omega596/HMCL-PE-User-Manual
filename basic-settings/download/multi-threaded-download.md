@@ -1,10 +1,10 @@
 ---
-description: Connect your phone to Torcherino
+description: Подключите свой телефон к Torcherino
 ---
 
-# 🚀 Multi-threaded download
+# 🚀 Многопотоковая загрузка
 
-Open the [Download Settings screen](./),find this:
+Откройте [Экран настроек загрузки](./), найдите это:
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-49-17-12\_d17cc25ab2657fb.jpg)
 
