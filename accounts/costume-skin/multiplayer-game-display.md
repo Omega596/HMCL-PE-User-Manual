@@ -1,21 +1,21 @@
 ---
-description: You can achieve this by using a mod
+description: Вы можете достичь этого с помощью мода
 ---
 
-# Multiplayer game display
+# Показавать в многопользовательской игре
 
-The name of this mod is [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) and it allows loading skins from the network or locally.
+Название этого мода - [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) и это позволяет загружать скины из сети или локально.
 
-If you want to use it, you need to install it in the server side and the client side.
+Если вы хотите использовать его, вам нужно установить его с обеих сторон
 
-It supports many versions of the game:
+Он поддерживает множество версий игры:
 
 ![](<../../.gitbook/assets/image (4) (1).png>)
 
 ![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
-If you want to use the new version of CustomSkinLoader in version 1.7.10, you need to add this mod:[Compatibility Layer For CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/compatibilitylayerforcustomskinloader)
+Если вы хотите использовать новую версию CustomSkinLoader в версии 1.7.10, вам необходимо добавить этот мод: [Уровень совместимости для CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/compatibilitylayerforcustomskinloader)
 
 {% hint style="info" %}
-This mod is compatible with the version information from [MCMOD](https://www.mcmod.cn/)
+Этот мод совместим с информацией о версии из [MCMOD](https://www.mcmod.cn/)
 {% endhint %}
