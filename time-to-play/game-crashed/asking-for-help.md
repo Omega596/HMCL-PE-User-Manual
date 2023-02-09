@@ -6,7 +6,7 @@ Before you can rule out problems caused by mods or games, you need to consider t
 
 ## How to find the location of your minecraft folder?
 
-### 1.Go to your game version list,Click on the minecraft version you have downloaded
+### 1.Go to your game version list, Click on the minecraft version you have downloaded
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-15-12-39-65\_d17cc25ab2657fb.jpg)
 
@@ -21,7 +21,7 @@ Before you can rule out problems caused by mods or games, you need to consider t
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-15-14-24-89\_d17cc25ab2657fb.jpg)
 
 {% hint style="info" %}
-Version isolation is great feature, it allows you to install multiple minecraft versions in one .minecraft folder and they don't affect each other, which solves a lot of unnecessary troubles.
+Version isolation is great feature, it allows you to install multiple minecraft versions in one minecraft folder and they don't affect each other, which solves a lot of unnecessary troubles.
 {% endhint %}
 
 ### 4.The destination folder where you will drag the Modpack files is here
@@ -112,7 +112,7 @@ The contents of the log file, copy and paste it here with a text editor and dele
 
 ### Get help at Discord
 
-You can upload your files in Discord's "Support:#on-game-crash-report."
+You can upload your files in Discord's "Support:#on-game-crash-report".
 
 You can also send files directly to #General for help. There are more people online there, but not all of them may be able to answer your questions.
 
@@ -130,7 +130,7 @@ You can also send files directly to #General for help. There are more people onl
 >
 > \***When your issue has been solved**, **please post** :heavy\_check\_mark: **as the final message in the thread**, and archive the thread
 >
-> **\*Do not beg for help** - when someone who is familiar with your ssue is available to offer assistance they will do so. Do not ping members for assistance without their prior consent. Please be patient.
+> **\*Do not beg for help** - when someone who is familiar with your issue is available to offer assistance they will do so. Do not ping members for assistance without their prior consent. Please be patient.
 >
 > **\*Do not cross post in seeking assistance**
 >
@@ -143,7 +143,7 @@ You can click on the [links](../../asking-questions-by-third-party-software/disc
 You can also get the tutorial in Discord under ["Support:#readme"](https://discord.com/channels/995291757799538688/1003984509412315166).
 
 {% hint style="danger" %}
-Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space and could leak some infomation
+Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space and could leak some (personal) infomation
 {% endhint %}
 
 _**``**_
