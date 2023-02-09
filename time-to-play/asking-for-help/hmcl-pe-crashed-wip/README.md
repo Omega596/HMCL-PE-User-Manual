@@ -4,13 +4,13 @@
 
 ### Get Report
 
-This window will be displayed when HMCL-PE crashes, you need to click ERROR DETAILS button
+This window will be displayed when HMCL-PE crashes, you need to click the Erorr Details button
 
 ![](../../../.gitbook/assets/Screenshot\_2022-08-16-10-13-14-02\_d17cc25ab2657fb.jpg)
 
-Then click the "Copy to Clipboard button" at the bottom of the page.
+Then click the "Copy to Clipboard" button at the bottom of the page.
 
 ![](../../../.gitbook/assets/Screenshot\_2022-08-16-10-13-27-24\_d17cc25ab2657fb.jpg)
 
-You need to post the issue to the "SUPPORT:#HMCLPE-BUG-REPORT" section of Discord or submit to GITHUB
+You need to post the issue to the "SUPPORT:#HMCLPE-BUG-REPORT" section of Discord or submit to Github
 
