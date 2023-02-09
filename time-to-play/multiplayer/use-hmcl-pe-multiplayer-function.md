@@ -58,7 +58,7 @@ Add a server to the multiplayer game sector of the game.
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-10-38-32-71\_d17cc25ab2657fb.jpg)
 
-The name of the server is random, and the server address is filled in the IP:port(like 1.1.1.1:25565) provided by the homeowner, and the server can be added.
+The name of the server is determined by the host player, and the server address is IP:port(like 1.1.1.1:25565), and the server can be added.
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-10-38-46-15\_d17cc25ab2657fb.jpg)
 
