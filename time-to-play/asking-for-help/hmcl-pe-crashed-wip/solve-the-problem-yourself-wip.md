@@ -2,7 +2,7 @@
 
 ## 1.Get your Error Details
 
-**Don't know how to get and check it? click** [**here**](./)****
+**Don't know how to get and check it? click** [**here**](./)
 
 ## **2.**Get the cause of the problem by looking at the first line.
 
@@ -21,5 +21,5 @@
 5. Go to the place you put all the HMCLPE files, then move all the HMCLPE files to the HMCLPE file.
 
 {% hint style="info" %}
-REMEMBER : Using **"Cut"** option is wayyyy faster than **"Copy"**. Using "Copy" options then paste it to the other files will take a longgg time to load, make sure you use "cut" option in order to fix this If this one does not work for you, try to use your brain to find out another method.
+REMEMBER : Using **"Cut"** is way faster than **"Copy"**. Using "Copy" options then paste it to the other files will take a very long time for some of you to load, make sure you use "cut" in order to fix this. If this one doesn't work for you, try to use your brain to find out another method.
 {% endhint %}
