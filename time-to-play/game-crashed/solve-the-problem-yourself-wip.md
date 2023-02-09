@@ -14,9 +14,9 @@ Here we note the column with LCHI or LCHE on the left, each letter carries its o
 
 | Letter                              | Meaning                                                                                           |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">'U'</mark> | Unloaded<mark style="color:red;">(Indicates that this mod was aborted while loading.)</mark>      |
-| <mark style="color:red;">'E'</mark> | Errored<mark style="color:red;">(Indicates that an error occurred while loading this mod.)</mark> |
-| 'D'                                 | Disabled(Indicates that this mod is a disabled mod.)                                              |
+| <mark style="color:red;">'U'</mark> | Unloaded<mark style="color:red;">(Indicates that the loading was aborted)</mark>                  |
+| <mark style="color:red;">'E'</mark> | Errored<mark style="color:red;">(Indicates that the mod failed to start due to errors)</mark>     |
+| 'D'                                 | Disabled                                                                                          |
 | 'L'                                 | Loaded                                                                                            |
 | 'C'                                 | Constructed                                                                                       |
 | 'H'                                 | Pre-initialized                                                                                   |
@@ -30,11 +30,11 @@ Here we note the column with LCHI or LCHE on the left, each letter carries its o
 
 Why is there also a place at the top that shows the mod where the error occurred, so if I look at it from the top will I get a more detailed answer?
 
-Yes, if we look at the sentences following Description and Caused by above, we can roughly determine who(WHAT MOD) is behind it.
+Yes, if we look at the sentences following Description and Caused by above, we can roughly determine what mod caused the crash
 
 ## Other issues
 
-You can find java.lang.XXX in the next line of the Description,The following are some of the XXX representatives' questions:
+You can find java.lang.XXX in the next line of the Description, The following are some of the XXX representatives' questions:
 
 ### NoClassDefFoundError
 
@@ -50,7 +50,7 @@ Solutions:Remove mods that only work on the client side
 
 Unable to perform class conversion, in layman's terms, a mod conflict
 
-Solutions:Remove conflicting mods
+Solutions:Remove one (or muiltiple) of the conflicting mods
 
 ### LoaderException
 
@@ -58,7 +58,7 @@ Solutions:Remove conflicting mods
 
 There was a problem loading the mod
 
-Solution: Check [Check Modlist section](solve-the-problem-yourself-wip.md#check-modlist) to find Errored MODS,Replace or delete the mod/update the forge
+Solution: Check [Check Modlist section](solve-the-problem-yourself-wip.md#check-modlist) to find Errored Mods, Replace or delete the mod or update the loader
 
 ### OutOfMemoryError
 
@@ -70,5 +70,7 @@ Solution: Increase your RAM allocation
 
 #### both Server\&Client
 
-Solution: Find the "-- Block being ticked --" section, learn the block coordinates, and use some methods to remove the block
+Solution: Find the "-- Block being ticked --" section, learn the block coordinates, and use some methods to remove the block, or if it is a mod block, remove the mod and then remove the now black and purple block,
+
+If it is in a server and you know the coords. of that block, and you are a server owner or a admin, then you do /setblock x y z Minecraft:air
 
