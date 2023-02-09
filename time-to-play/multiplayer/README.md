@@ -1,13 +1,13 @@
 # Multiplayer
 
-You need to make sure that two people have downloaded the **exact same Minecraft** before playing in multiplayer, otherwise it is prone to problems.
+You need to make sure that two people have downloaded the **exact same Minecraft version** before playing in multiplayer, otherwise it almost always will glitch in some way.
 
-The same file is required(If your minecraft version folder does not have certain folders, you can ignore):
+The same file is required (If your minecraft version folder does not have certain folders, you can ignore):
 
-* config
-* mods
-* resourcepacks
-* scripts(CraftTweaker Mod's recipe modification file)
+* Config
+* Mods
+* Resource packs
+* Scripts(CraftTweaker Mod's recipe modification file)
 
 You have five ways to play multiplayer games
 
