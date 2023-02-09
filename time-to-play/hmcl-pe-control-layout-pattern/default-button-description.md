@@ -22,7 +22,7 @@ description: >-
 
 **Backsp:**Works the same as BackSpace on a computer.
 
-**Mouse L/R:**Works the same as Use the mouse to click on a computer.
+**Mouse L/R:**Works the same way as a normal mouse.
 
 **...:**Open your inventory
 
@@ -34,9 +34,9 @@ description: >-
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-15-22-31-34-17\_d17cc25ab2657fb.jpg)
 
-**Debug:**Works the same as F3 on a computer.This will bring up some test information.
+**Debug:**Works the same as F3 on a computer. This will bring up some test information.
 
-**F5:**Works the same as F5 on a computer.Switching Perspectives
+**F5:**Works the same as F5 on a computer. Switching Perspectives
 
 **Q:**Works the same as Q on a computer.
 
@@ -68,13 +68,13 @@ description: >-
 
 #### When you press "◀▲▼▶", the following four buttons will appear.
 
-**"◤":**When you slide on top, you will simultaneously go to the left front.
+**"◤":**When you slide on top, you will walk to upper corner left.
 
-**"◥":**When you slide on top, you will simultaneously go to the right front.
+**"◥":**When you slide on top, you will walk to upper corner right.
 
-**"◣":**When you slide on top, you will simultaneously go to the left rear.
+**"◣":**When you slide on top, you will walk to lower corner left.
 
-**"◢":**When you slide on top, you will simultaneously go to the right rear.
+**"◢":**When you slide on top, you will walk to lower corner right.
 
 ## Game Keyboard Layout
 
