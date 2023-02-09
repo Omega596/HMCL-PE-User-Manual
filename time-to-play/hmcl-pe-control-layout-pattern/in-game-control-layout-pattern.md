@@ -8,7 +8,7 @@ You can open the Control Layout settings screen by swiping right this button aft
 
 ## Current Pattern
 
-Current layout pattern:Your current Control Layout Pattern can be switched to something else, but you need to create a new one in [HMCL-PE's settings](../../basic-settings/global-game-settings/control-layout-pattern.md) or [import ](../../basic-settings/global-game-settings/control-layout-pattern.md#import)someone else's
+Current layout pattern: Your current Control Layout Pattern can be switched to something else, but you need to create a new one in [HMCL-PE's settings](../../basic-settings/global-game-settings/control-layout-pattern.md) or [import ](../../basic-settings/global-game-settings/control-layout-pattern.md#import)someone else's Control Layout Pattern
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-15-15-56-08-25\_d17cc25ab2657fb.jpg)
 
@@ -17,7 +17,7 @@ Current layout pattern:Your current Control Layout Pattern can be switched to so
 **To modify your Control Layout settings, you need to enable Edit Mode first.**
 
 {% hint style="info" %}
-After the change you need to close it in time, otherwise you can't use the buttons provided by HMCL-PE to play the game.
+After you changed the Control Layout Pattern, you need to disable Edit mode to interact with the game.
 {% endhint %}
 
 ### Show boundaries
@@ -38,9 +38,9 @@ You can change the **author**, **version**, and **description**, which makes it 
 
 ### Set layout
 
-You can add countless sub-layouts(child layout) to a layout.
+You can add countless sub-layouts (child layout) to a layout.
 
-You can change its name as well as visibility.You can also remove it.
+You can change its name as well as visibility. You can also remove it.
 
 ### Child layout
 
@@ -66,7 +66,7 @@ When you enable Edit mode, click a button to start editing.
 
 **Width/Height:**Button length/width
 
-**X/Y coordinate:**Set button in screen length/width percentage.You can also change the button position by dragging.
+**X/Y coordinate:**Set button in screen length/width percentage. You can also change the button position by dragging.
 
 #### Function Settings
 
@@ -84,9 +84,9 @@ When you enable Edit mode, click a button to start editing.
 
 **Switch touch mode:**Click to switch to building/attack mode
 
-**Open/Close gro:**Click to Open/Close gro,The view angle will rotate as you move your phone...VR?
+**Open/Close gyroscope:**Click to Open/Close gyroscope, The view angle will rotate as you move your phone... Will it be technically be VR?
 
-**Enable/Disable left half screen touch:**Click to Enable/Disable left half screen touch,You can't shake the view by touching the left half of the screen
+**Enable/Disable left half screen touch:**Click to Enable/Disable left half screen touch, You can't shake the view by touching the left half of the screen
 
 **Open text input box:**Click to Open your input pop-up window
 
